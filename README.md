@@ -50,7 +50,9 @@ I'm a Software Test Engineer with **2+ years of experience** in designing and de
 
 ### 📫 Reach me
 
-* **Email:** [rahulkornepati@gmail.com](mailto:rahulkornepati@gmail.com)
-* **LinkedIn:** *https://www.linkedin.com/in/rahul-kornepati-68b012167/*
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rahulkornepati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kornepati-68b012167/)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:rahulkornepati@gmail.com)
+
 
 > *"Quality is never an accident; it is always the result of intelligent effort."*
